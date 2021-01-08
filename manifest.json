@@ -1,11 +1,11 @@
 {
-    "name": "flutter_web_app",
-    "short_name": "flutter_web_app",
+    "name": "Arun Anand",
+    "short_name": "Arun Anand",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Personal website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
